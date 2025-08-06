@@ -1,29 +1,29 @@
-# CV_Example
+# CV_MiguelGomez
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Miguel Angel Gomez Gomez
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 310 484 7446
+- **Email:** [miguelingogo123@gmail.com](mailto:miguelingogo123@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+- **MC.Donalds's**
+### **SENA _(2025 - Actualidad)_**
+- Aprendiz en Analisis y desarrollo de software.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+- **Diplomado en bachillerato _(Fundación Ana Restrepo del Corral)_**
+- **Técnico en cocina _(Fundación Ana Restrepo del Corral)_**
+### **SENA _(2025 - Actualidad)_**
+- Aprendiz en Analisis y desarrollo de software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Aprendo de mandera fácil y rápida**
+- **Soy una persona solidaria**
+- **Miro varias expectativas para encontrar soluciones**
 
 ---
 
