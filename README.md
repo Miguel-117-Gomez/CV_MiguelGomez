@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** +57 310 484 7446
 - **Email:** [miguelingogo123@gmail.com](mailto:miguelingogo123@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** [linkedin.com/in/tuykm-miguel-gomez](https://www.linkedin.com/in/tuykm-miguel-gomez-a8a524379/)
 
 ## 🏢 Experiencia Laboral
 - **MC.Donalds's**
